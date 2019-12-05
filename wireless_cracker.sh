@@ -68,7 +68,6 @@ infoBoard(){
 	echo "${reset}"
 }
 
-infoBoard
 
 if [ $# -eq 1 ] ; then
 	if [ "$1" = '-h' ] || [ "$1" = '--help' ]; then
