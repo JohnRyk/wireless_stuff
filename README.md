@@ -9,4 +9,5 @@ I say it really old stuff...
 ## Usage:
 ```
   ./wireless_cracker.sh -h
+  ./wireless_cracker.sh
 ```
